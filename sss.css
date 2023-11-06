@@ -1,0 +1,287 @@
+body {
+    background: #000;
+    margin: 0;
+}
+
+.header {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.header-logo {
+    width: 38px;
+    height: 53px;
+    padding-top: 30px;
+}
+
+.header-link {
+    text-decoration: none;
+    color: #FFF;
+    font-family: Noto Sans;
+    font-size: 15px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 16.5px;
+    letter-spacing: 0.15px;
+    margin-left: 80px;
+    
+}
+
+.header-button {
+    color: #FFF;
+    font-family: Noto Sans;
+    font-size: 15px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 18px;
+    letter-spacing: 0.15px;
+    border-radius: 8px;
+    background: #009465;
+    width: 218px;
+    height: 48px;
+    border: none;
+    cursor: pointer;
+    
+}
+
+.header-link-icon {
+    margin-left: 5px;
+    padding-top: 45px;
+
+}
+
+
+.container {
+    max-width: 1120px;
+    margin: 0 auto;
+}
+
+.banner-tag {
+    margin-top: 30px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: #5036E6;
+    border-top-right-radius: 20px;
+    border-bottom-right-radius:20px;
+    width: 84px;
+    height: 50px;
+    color: white;
+    border-radius: 10px;
+  
+}
+
+.head-text {
+    top: 260px;
+    left: 160px;
+    width: 547px;
+    height: 147px;
+    overflow: hidden;
+    font-family: Noto Sans;
+    font-size: 70px;
+    font-weight: bold;
+    text-align: left;
+    line-height: 69px;
+    padding-top: 7px;
+    margin-top:90px ;
+    color: #FFFFFF;
+    margin-left: px;
+}
+.section1 {
+    width: flex;
+    height: 870px;
+    background: #000000;
+    background-image: url(img/Group\ 332.svg);
+    background-repeat: no-repeat;
+    background-position: 100% 65%;
+}
+
+.text {
+    height: 84px;
+    font-family: Noto Sans;
+    font-size: 20px;
+    text-align: left;
+    line-height: 30px;
+    color: #FFFFFF;
+    margin-top:70px ;
+}
+
+.cubs {
+    width: 38px;
+    height: 53px;
+    top: 686px;
+    margin-top:200px ;
+    
+}
+
+
+.team{
+    background-color: #5036E6;
+
+}
+.page {
+    color: #FFF;
+  
+}
+.h {
+    color: #FFF;
+    font-family: Noto Sans;
+    font-size: 70px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 90%;
+    padding-top: 90px;
+}
+.p {
+    color: #FFF;
+    font-family: Noto Sans;
+    font-size: 30px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 130%;
+    padding-top: 30px;
+}
+.andr {
+    width: 320px;
+    height: 320px;
+}
+.text {
+    color: #FFF;
+    font-family: Noto Sans;
+    font-size: 30px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 140%;
+}
+.nik {
+    width: 320px;
+    height: 320px;
+    margin-left:1000px ;
+}
+
+
+
+
+
+
+.team-container {
+    display: flex;
+    justify-content: space-between;
+}
+
+
+.want-us { 
+    padding: 60px 0;
+    min-height: 560px;
+    background-color: #5036E6;
+    background-image: url('../img/want-to-us__bg-left.svg');
+    background-position: left;
+    min-height: 560px;
+    background-repeat: no-repeat;
+    
+}
+.want{
+    color: #FFF;
+    font-family: Noto Sans;
+    font-size: 70px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 90%;
+    padding-top: 100px;
+    padding-left: 55%;
+   
+    
+}
+.call{
+    color: #FFF;
+    font-family: Noto Sans;
+    font-size: 25px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 120%;
+    padding-left: 55%;
+    
+}
+.fight{
+    background-color: #000;
+    width: flex;
+    height: 1120px;
+    background-image: url('img/339.png');
+    background-repeat: no-repeat;
+    background-position: 30% 100%;
+}
+.text3{
+    color: #FFF;
+    font-family: Noto Sans;
+    font-size: 50px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 90%;
+    padding-top: 70px;
+}
+.p3{
+    color: #FFF;
+font-family: Noto Sans;
+font-size: 30px;
+font-style: normal;
+font-weight: 400;
+line-height: 130%;
+}
+.peshka{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    padding-top: 100px;
+}
+.cubiki{
+    padding-left: 720px;
+    padding-top: 130px;
+}
+.end{
+background-color: #5036E6;
+width: flex;
+height: 480px;
+display: flex;
+flex-direction: column;
+
+
+}
+.elem{
+    padding-top: 100px;
+    margin-left: auto;
+    margin-right: auto;
+    padding-left: 130px;
+    margin-bottom: 30px;
+    
+   
+    
+}
+.text4{
+    color: #FFF;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    font-family: Noto Sans;
+    font-size: 25px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 130%;
+    padding-top: 90px;
+}
+.bt{
+    color: var(--soft-grey, #8E9199);
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    font-family: Noto Sans;
+    font-size: 15px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 20px;
+    padding-top: 20px;
+}
+.knopka{
+    padding-top: 20px;
+    padding-left: 40px;
+}
